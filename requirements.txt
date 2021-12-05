@@ -1,0 +1,10 @@
+beckett==0.8.0
+certifi==2021.10.8
+charset-normalizer==2.0.9
+idna==3.3
+inflect==0.2.5
+pkg_resources==0.0.0
+pokepy==0.4.0
+requests==2.10.0
+six==1.10.0
+urllib3==1.26.7
