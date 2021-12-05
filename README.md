@@ -20,4 +20,3 @@ Após a instalação ser feita, é só colocar:
 python3 main.py
 ```
 E escolher os sprites que deseja baixar
---------------------------------------
